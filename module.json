@@ -15,6 +15,16 @@
       "name": "Moonpile"
     }
   ],
+  "packFolders": [
+    {
+      "name": "Moonpile's RQG",
+      "sorting": "m",
+      "color": "#176341",
+      "packs": ["moonpiles-rqg-actors",
+                "moonpiles-rqg-items",
+                "moonpiles-rqg-journals"]
+    }
+  ],
   "packs": [
     {
       "name": "moonpiles-rqg-actors",
